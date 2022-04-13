@@ -1,4 +1,5 @@
 [![Python application test with Github Actions](https://github.com/noahgift/python-for-devops-april-2022/actions/workflows/devops.yml/badge.svg)](https://github.com/noahgift/python-for-devops-april-2022/actions/workflows/devops.yml)
+[![Python application test with Github Actions](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiYitYTGMvQzV3YW16TUlGc1BwbkR2UlUrSkhRMkdEZ3RUVVpWUjBXaCtiVmhhTU5kbmVxcmFJVytoamMrMklReTdDdGNtQ1VKb1hxaFNKV0NGRm13YjlrPSIsIml2UGFyYW1ldGVyU3BlYyI6IncvNEs0QXgrck43V0xwNWoiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 
 # python-for-devops-april-2022
 This is a new repository for Python for DevOps Lecture/Workshop
