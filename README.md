@@ -19,3 +19,7 @@ This is a new repository for Python for DevOps Lecture/Workshop
 ![lint-failure](https://user-images.githubusercontent.com/58792/163162836-4d5a814a-146e-44dc-ba1c-b8d03cc5b46f.png)
 
 5. Build cli using Python Fire library ` ./cli-fire.py --help` to test logic 
+
+## Containerized Continuous Delivery
+
+![container](https://user-images.githubusercontent.com/58792/163263376-351d5751-3e33-43c8-85cb-fe052d3a34dc.png)
