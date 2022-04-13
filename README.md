@@ -22,4 +22,5 @@ This is a new repository for Python for DevOps Lecture/Workshop
 
 ## Containerized Continuous Delivery
 
-![container](https://user-images.githubusercontent.com/58792/163263376-351d5751-3e33-43c8-85cb-fe052d3a34dc.png)
+
+![app-runner](https://user-images.githubusercontent.com/58792/163263487-3e48e983-61dc-4054-b612-d2343e8b5224.png)
