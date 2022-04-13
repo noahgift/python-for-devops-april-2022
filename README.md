@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/noahgift/python-for-devops-april-2022/actions/workflows/devops.yml/badge.svg)](https://github.com/noahgift/python-for-devops-april-2022/actions/workflows/devops.yml)
+
 # python-for-devops-april-2022
 This is a new repository for Python for DevOps Lecture/Workshop
 
