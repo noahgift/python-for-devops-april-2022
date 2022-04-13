@@ -16,3 +16,5 @@ This is a new repository for Python for DevOps Lecture/Workshop
 4. Setup Continuous Integration, i.e. check code for issues like lint errors
 
 ![lint-failure](https://user-images.githubusercontent.com/58792/163162836-4d5a814a-146e-44dc-ba1c-b8d03cc5b46f.png)
+
+5. Build cli using Python Fire library ` ./cli-fire.py --help` to test logic 
