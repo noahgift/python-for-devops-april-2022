@@ -13,4 +13,6 @@ This is a new repository for Python for DevOps Lecture/Workshop
 1. Create a Python Virtual Environment `python3 -m venv ~/.venv` or `virtualenv ~/.venv`
 2. Create empty files: `Makefile`, `requirements.txt`, `main.py`, `Dockerfile`, `mylib/__init__.py`
 3. Populate `Makefile`
+4. Setup Continuous Integration, i.e. check code for issues like lint errors
 
+![lint-failure](https://user-images.githubusercontent.com/58792/163162836-4d5a814a-146e-44dc-ba1c-b8d03cc5b46f.png)
