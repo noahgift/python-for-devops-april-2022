@@ -23,4 +23,8 @@ This is a new repository for Python for DevOps Lecture/Workshop
 ## Containerized Continuous Delivery
 
 
+![5-10-ecr-workflow](https://user-images.githubusercontent.com/58792/163280392-1de7f99a-221b-439b-b970-e84c67091ee4.png)
+
+
+
 ![app-runner](https://user-images.githubusercontent.com/58792/163263487-3e48e983-61dc-4054-b612-d2343e8b5224.png)
