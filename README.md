@@ -22,6 +22,29 @@ This is a new repository for Python for DevOps Lecture/Workshop
 
 ## Containerized Continuous Delivery
 
+Learn to build real-world Python Microservices that enable Continuous Delivery. This is a cool walkthrough because it is very similar to what someone would do at work building NLP Microservices on Amazon Web Services (AWS)
+
+00:00 Intro
+05:00 Scaffolding a project in Python
+08:00 Setup Virtualenv
+13:10 Building Makefile
+24:00 Setup Github Actions
+29:00 Formatting code with Python Black
+45:09 Test code with Pytest and Pytest Coverage
+50:30 Using Python Fire to build CLI
+59:30 Write Wikipedia scraper
+1:02:00 Use IPython to interact and debug code in Github Codespaces
+1:08:00 Pinning FastAPI version number
+1:12:00 Building FastAPI Microservice
+1:18:00 Using Text blob NLP service to parse phrases
+1:29:00 Debugging broken code
+1:34:00 Building container
+1:54:00 Setup AWS Code Build push to ECR (Elastic Container Registry)
+2:02:00 Setup AWS Code Build to ECR to AWS App Runner Continuous Delivery
+
+Watch on Pragmatic AI Labs YouTube: https://lnkd.in/e5xHfaMG
+Watch on O'Reilly Media: https://lnkd.in/eAECgyCi
+
 
 ![5-10-ecr-workflow](https://user-images.githubusercontent.com/58792/163280392-1de7f99a-221b-439b-b970-e84c67091ee4.png)
 
