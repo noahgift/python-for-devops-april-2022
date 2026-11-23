@@ -1,22 +1,6 @@
 [![Python application test with Github Actions](https://github.com/noahgift/python-for-devops-april-2022/actions/workflows/devops.yml/badge.svg)](https://github.com/noahgift/python-for-devops-april-2022/actions/workflows/devops.yml)
 [![Python application test with Github Actions](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiYitYTGMvQzV3YW16TUlGc1BwbkR2UlUrSkhRMkdEZ3RUVVpWUjBXaCtiVmhhTU5kbmVxcmFJVytoamMrMklReTdDdGNtQ1VKb1hxaFNKV0NGRm13YjlrPSIsIml2UGFyYW1ldGVyU3BlYyI6IncvNEs0QXgrck43V0xwNWoiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 
-## 🎓 Pragmatic AI Labs | Join 1M+ ML Engineers
-
-### 🔥 Hot Course Offers:
-* 🤖 [Master GenAI Engineering](https://ds500.paiml.com/learn/course/0bbb5/) - Build Production AI Systems
-* 🦀 [Learn Professional Rust](https://ds500.paiml.com/learn/course/g6u1k/) - Industry-Grade Development
-* 📊 [AWS AI & Analytics](https://ds500.paiml.com/learn/course/31si1/) - Scale Your ML in Cloud
-* ⚡ [Production GenAI on AWS](https://ds500.paiml.com/learn/course/ehks1/) - Deploy at Enterprise Scale
-* 🛠️ [Rust DevOps Mastery](https://ds500.paiml.com/learn/course/ex8eu/) - Automate Everything
-
-### 🚀 Level Up Your Career:
-* 💼 [Production ML Program](https://paiml.com) - Complete MLOps & Cloud Mastery
-* 🎯 [Start Learning Now](https://ds500.paiml.com) - Fast-Track Your ML Career
-* 🏢 Trusted by Fortune 500 Teams
-
-Learn end-to-end ML engineering from industry veterans at [PAIML.COM](https://paiml.com)
-
 # python-for-devops-april-2022
 This is a new repository for Python for DevOps Lecture/Workshop
 
@@ -67,3 +51,11 @@ Watch on O'Reilly Media: https://lnkd.in/eAECgyCi
 
 
 ![app-runner](https://user-images.githubusercontent.com/58792/163263487-3e48e983-61dc-4054-b612-d2343e8b5224.png)
+
+<!-- funnel:start -->
+---
+
+**Learn DevOps and CI/CD for Python:** [GitHub: From Zero to Pull Request (Coursera)](https://www.coursera.org/learn/github-zero?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=python-for-devops-april-2022) · [AI Debugging and Test-Driven Fixes (Coursera)](https://www.coursera.org/learn/ai-debugging?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=python-for-devops-april-2022) · [Data Engineering with Python and Linux program (edX)](https://www.edx.org/certificates/professional-certificate/ai-data-engineering-with-python-and-linux?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=python-for-devops-april-2022)
+
+More courses from [Noah Gift](https://github.com/noahgift) and Pragmatic AI Labs.
+<!-- funnel:end -->
